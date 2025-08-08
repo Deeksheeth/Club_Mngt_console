@@ -35,5 +35,4 @@ The **Club Team Management System** is a console-based Java application that hel
 
 ---
 
-## 📂 Project Structure
 
